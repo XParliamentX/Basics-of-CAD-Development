@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CadPlugin.App/CadPlugin.App.csproj" />
+  <Project Path="CadPlugin.Core.Tests/CadPlugin.Core.Tests.csproj" />
+  <Project Path="CadPlugin.Core/CadPlugin.Core.csproj" />
+  <Project Path="CadPlugin.Wrapper/CadPlugin.Wrapper.csproj" />
+</Solution>
